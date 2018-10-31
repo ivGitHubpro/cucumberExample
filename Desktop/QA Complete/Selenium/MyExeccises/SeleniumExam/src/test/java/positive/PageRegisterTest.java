@@ -18,7 +18,7 @@ public class PageRegisterTest {
         HomepageRegister.openAccountLoginPage();
         CommonVerification.verifyTitle("Register Account", "You are not on right page");
 
-
+//comment added
     }
 
 }
