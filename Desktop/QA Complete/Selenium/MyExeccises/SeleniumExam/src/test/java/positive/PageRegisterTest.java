@@ -19,6 +19,7 @@ public class PageRegisterTest {
         CommonVerification.verifyTitle("Register Account", "You are not on right page");
 
 //comment added
+        // nwe comments
     }
 
 }
